@@ -1,3 +1,11 @@
+# Introduction
+
+Saw this API just wondering around on rapidAPI's website, thought maybe I'd create something with this Google Serach API? Created this website using ReactJS alongside with tailwindcss to get a clean looking UI. All the data that is retrieved to the wesite gets fetched from an API called "Google Search" (by apigeek) which you can find over at rapidAPI.
+
+# Install
+
+Don't forget to run npm install once you've cloned the project! Have fun :D
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
